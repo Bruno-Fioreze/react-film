@@ -3,7 +3,6 @@ import { useEffect, useState } from "react";
 import api from "../../services/api"
 import { Link } from "react-router-dom";
 import "./home.css"
-//movie/now_playing?api_key=3bdd5c46c9344dfdd445fd17026dc9f2&language=pt-BR
 
 
 
